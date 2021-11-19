@@ -6,3 +6,5 @@ pytest
 requests
 pre-commit
 python-dotenv
+python-multipart
+pillow
